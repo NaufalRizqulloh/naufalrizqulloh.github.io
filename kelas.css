@@ -1,0 +1,443 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.rectangle-div48,
+.rectangle-div49 {
+  position: absolute;
+  top: -160px;
+  left: 1374.43px;
+  background-color: var(--color-gray-200);
+  box-shadow: -20px 4px 4px rgba(152, 168, 248, 0.25);
+  width: 1033.36px;
+  height: 1718.49px;
+  transform: rotate(29.66deg);
+  transform-origin: 0 0;
+}
+.rectangle-div49 {
+  top: -474.5px;
+  left: 775.07px;
+  background-color: var(--color-gray-400);
+  width: 1497.33px;
+  height: 551.8px;
+}
+.selamat-datang-di-koridor-kela {
+  position: absolute;
+  height: 7.09%;
+  width: 45.36%;
+  top: 10.69%;
+  left: 4.76%;
+  font-size: var(--sub-page-h1-size);
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.kelas-umum-ul {
+  margin: 0;
+  padding-left: var(--padding-lg);
+}
+.kelas-penjurusan-div,
+.kelas-umum-div {
+  position: absolute;
+  height: 7.09%;
+  width: 45.36%;
+  top: 20.95%;
+  left: 4.76%;
+  font-size: var(--font-inherit);
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  font-family: var(--font-inherit);
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.kelas-penjurusan-div {
+  top: 55.77%;
+}
+.rectangle-div50,
+.rectangle-div51 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 300px;
+  height: 250px;
+}
+.rectangle-div51 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--actionable-item);
+}
+.log-in-div10 {
+  position: absolute;
+  top: 27.5%;
+  left: 16.15%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.button-div11 {
+  position: absolute;
+  top: 177px;
+  left: 85px;
+  width: 130px;
+  height: 40px;
+  color: var(--actionable-item);
+}
+.bahasa-indonesia-div,
+.teks-ceramah-div {
+  position: absolute;
+  height: 16.4%;
+  width: 72%;
+  top: 8%;
+  left: 14%;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.teks-ceramah-div {
+  top: 26.8%;
+  font-size: var(--body-p-size);
+  line-height: 20px;
+}
+.group-div37 {
+  position: absolute;
+  top: 265px;
+  left: 80px;
+  width: 300px;
+  height: 250px;
+}
+.asking-for-direction {
+  position: absolute;
+  height: 16.4%;
+  width: 72%;
+  top: 26.8%;
+  left: 14%;
+  font-size: var(--body-p-size);
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-div38,
+.group-div39 {
+  position: absolute;
+  top: 265px;
+  left: 439px;
+  width: 300px;
+  height: 250px;
+}
+.group-div39 {
+  left: 798px;
+}
+.dasar-fiber-optik,
+.fiber-optik-div {
+  position: absolute;
+  height: 16.4%;
+  width: 72%;
+  top: 8%;
+  left: 14%;
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dasar-fiber-optik {
+  top: 24.4%;
+  font-size: var(--body-p-size);
+}
+.button-div14 {
+  position: absolute;
+  top: 177px;
+  left: 85px;
+  width: 130px;
+  height: 40px;
+  font-size: var(--font-size-2xs);
+  color: var(--actionable-item);
+}
+.group-div40,
+.group-div41 {
+  position: absolute;
+  top: 594px;
+  width: 300px;
+  height: 250px;
+}
+.group-div40 {
+  left: 80px;
+  font-size: var(--body-h4-size);
+}
+.group-div41 {
+  left: 439px;
+}
+.cara-menggunakan-autocad {
+  position: absolute;
+  height: 16.4%;
+  width: 72%;
+  top: 24.4%;
+  left: 14%;
+  font-size: var(--font-size-3xs);
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-div42 {
+  position: absolute;
+  top: 594px;
+  left: 798px;
+  width: 300px;
+  height: 250px;
+}
+.home-div7,
+.kelas-div7,
+.kontak-div7,
+.langganan-div6,
+.log-in-div16 {
+  position: absolute;
+  top: 21px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div7 {
+  left: 282px;
+  cursor: pointer;
+}
+.kelas-div7,
+.kontak-div7,
+.langganan-div6,
+.log-in-div16 {
+  left: 385px;
+}
+.kontak-div7,
+.langganan-div6,
+.log-in-div16 {
+  left: 481px;
+}
+.kontak-div7,
+.log-in-div16 {
+  left: 623px;
+}
+.log-in-div16 {
+  top: 27.5%;
+  left: 26.92%;
+}
+.bell-r-icon6,
+.button-div17 {
+  position: absolute;
+  top: 10px;
+  left: 1501px;
+  width: 130px;
+  height: 40px;
+}
+.bell-r-icon6 {
+  top: 7px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.div15,
+.ellipse-icon22 {
+  position: absolute;
+  top: 3px;
+  left: 4px;
+  width: 40px;
+  height: 40px;
+}
+.div15 {
+  top: 1.5px;
+  left: 6px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+  width: 2.7px;
+  height: 11.7px;
+}
+.group-div43,
+.group-div44 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15px;
+  height: 15px;
+}
+.group-div43 {
+  top: 7px;
+  left: 1438px;
+  width: 44px;
+  height: 43px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+}
+.sintar-logo-4-17 {
+  position: absolute;
+  top: 5px;
+  left: 68px;
+  width: 117.11px;
+  height: 50px;
+  object-fit: cover;
+}
+.navigation-c-div7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1680px;
+  height: 60px;
+  overflow: hidden;
+  color: var(--actionable-item);
+}
+.kelas-div6 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 945px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}
+.notifikasi-baru-nih {
+  top: 33px;
+  left: 49px;
+  font-weight: 600;
+}
+.cek-div,
+.notifikasi-baru-nih,
+.slim-ftth-div {
+  position: absolute;
+  letter-spacing: -0.01em;
+  display: inline-block;
+}
+.slim-ftth-div {
+  top: 72px;
+  left: 136px;
+  font-size: var(--body-h4-size);
+  text-align: center;
+}
+.cek-div {
+  top: 6px;
+  left: 39px;
+}
+.frame-div1 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-div,
+.group-div {
+  position: absolute;
+  width: 400px;
+  height: 250px;
+}
+.frame-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  border: 3px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.group-div {
+  top: 57px;
+  left: 50px;
+}
+.mentor-ali-mengubungi {
+  position: absolute;
+  top: 72px;
+  left: 59px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.frame-div3 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+}
+.group-div1 {
+  position: absolute;
+  top: 347px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.pertanyaan-di-forum {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.telah-dijawab-p {
+  margin: 0;
+}
+.pertanyaan-di-forum-telah-dija {
+  position: absolute;
+  top: 72px;
+  left: 75px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.group-div2 {
+  position: absolute;
+  top: 637px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.home-pagenotif-div {
+  position: relative;
+  background-color: var(--color-gray-1200);
+  width: 500px;
+  height: 945px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}

@@ -1,0 +1,191 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div,
+.rectangle-div1 {
+  position: absolute;
+  top: -160px;
+  left: 1374.43px;
+  background-color: var(--color-gray-200);
+  box-shadow: -20px 4px 4px rgba(152, 168, 248, 0.25);
+  width: 1033.36px;
+  height: 1718.49px;
+  transform: rotate(29.66deg);
+  transform-origin: 0 0;
+}
+.rectangle-div1 {
+  top: -474.5px;
+  left: 775.07px;
+  background-color: var(--color-gray-400);
+  width: 1497.33px;
+  height: 551.8px;
+}
+.hubungi-kami {
+  position: absolute;
+  height: 7.09%;
+  width: 45.36%;
+  top: 11.85%;
+  left: 27.32%;
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 29px;
+  left: 24px;
+  width: 100px;
+  height: 101.04px;
+  object-fit: cover;
+}
+.image-2-icon,
+.image-3-icon {
+  top: 150px;
+  height: 100px;
+}
+.image-3-icon {
+  top: 270px;
+}
+.div,
+.sintarpintar-div,
+.wwwsintarcoid-div {
+  position: absolute;
+  height: 16.75%;
+  width: 62.33%;
+  top: 11.5%;
+  left: 22.33%;
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+}
+.sintarpintar-div,
+.wwwsintarcoid-div {
+  top: 41.5%;
+}
+.wwwsintarcoid-div {
+  width: 67.5%;
+  top: 71.5%;
+}
+.frame-div6 {
+  position: absolute;
+  top: 273px;
+  left: 540px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  border: 10px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 600px;
+  height: 400px;
+  overflow: hidden;
+  text-align: left;
+}
+.sintar-logo-4-1 {
+  position: absolute;
+  top: 5px;
+  left: 68px;
+  width: 117.11px;
+  height: 50px;
+  object-fit: cover;
+}
+.contact-div,
+.programs-div,
+.slim-div {
+  position: absolute;
+  top: 21px;
+  left: 287px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.contact-div,
+.programs-div {
+  left: 368px;
+}
+.contact-div {
+  left: 486px;
+}
+.rectangle-div2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--actionable-item);
+}
+.register-div {
+  position: absolute;
+  top: 27.5%;
+  left: 26.15%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.button-div {
+  position: absolute;
+  top: 10px;
+  left: 1470px;
+  width: 130px;
+  height: 40px;
+  color: var(--color-white);
+}
+.rectangle-div3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--actionable-item);
+  box-sizing: border-box;
+}
+.log-in-div {
+  position: absolute;
+  top: 27.5%;
+  left: 32.31%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.button-div1 {
+  position: absolute;
+  top: 10px;
+  left: 1328px;
+  width: 130px;
+  height: 40px;
+}
+.navigation-c-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 10px 4px rgba(0, 0, 0, 0.25);
+  width: 1680px;
+  height: 60px;
+  overflow: hidden;
+  font-size: var(--font-size-2xs);
+  color: var(--actionable-item);
+}
+.landing-pagecontactus-div {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 945px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--sub-page-h1-size);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}

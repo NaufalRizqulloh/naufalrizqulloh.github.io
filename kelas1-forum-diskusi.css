@@ -1,0 +1,554 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.rectangle-div10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  border: 3px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1000px;
+  height: 350px;
+}
+.kepikiran-sesuatu {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-div11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-green-100);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+}
+.send-r-icon {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.group-div11,
+.group-div12 {
+  position: absolute;
+  top: 275px;
+  left: 925px;
+  width: 50px;
+  height: 50px;
+}
+.group-div11 {
+  top: 118px;
+  left: 80px;
+  width: 1000px;
+  height: 350px;
+  color: var(--color-gray-1100);
+}
+.rectangle-div12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  border: 3px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1000px;
+  height: 720px;
+}
+.ini-jawaban-guweh,
+.kelas-11-div,
+.nama-penjawab-div {
+  position: absolute;
+  top: 345px;
+  left: 30px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.kelas-11-div,
+.nama-penjawab-div {
+  top: 288px;
+  left: 92px;
+  font-size: var(--font-size-3xs);
+}
+.kelas-11-div {
+  top: 303px;
+}
+.rectangle-div13,
+.rectangle-div14 {
+  position: absolute;
+  top: 645px;
+  left: 925px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-green-100);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+}
+.rectangle-div14 {
+  top: 279px;
+  left: 30px;
+}
+.rectangle-div15,
+.rectangle-div16 {
+  position: absolute;
+  top: 626px;
+  left: 0;
+  background-color: var(--color-gray-800);
+  border-top: 1px solid var(--color-gray-1100);
+  border-right: 0 solid var(--color-gray-1100);
+  border-bottom: 0 solid var(--color-gray-1100);
+  border-left: 0 solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 1000px;
+  height: 94px;
+}
+.rectangle-div16 {
+  top: 266px;
+  height: 360px;
+}
+.ayo-bantu-menjawab {
+  position: absolute;
+  top: 658px;
+  left: 30px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  color: var(--color-gray-1100);
+  display: inline-block;
+}
+.bahasa-indonesia- {
+  margin: 0;
+  padding-left: var(--padding-md);
+}
+.bahasa-indonesia-judul-mater,
+.hari-tanggal-div {
+  position: absolute;
+  top: 224px;
+  left: 20px;
+  font-size: var(--font-inherit);
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  color: var(--color-gray-1100);
+  display: inline-block;
+}
+.hari-tanggal-div {
+  top: 590px;
+}
+.group-div13,
+.send-r-icon1 {
+  position: absolute;
+  top: 502px;
+  left: 80px;
+  width: 1000px;
+  height: 720px;
+}
+.send-r-icon1 {
+  top: 1160px;
+  left: 1018px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangle-div17 {
+  position: absolute;
+  top: -1.5px;
+  left: -1.5px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  border: 3px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 403px;
+  height: 353px;
+}
+.bahasa-indonesia-smk-2022,
+.pertanyaanku-div {
+  position: absolute;
+  height: 8.57%;
+  width: 85.25%;
+  top: 3.43%;
+  left: 3.75%;
+  letter-spacing: -0.01em;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+}
+.pertanyaanku-div {
+  top: 42.86%;
+}
+.rectangle-div18,
+.rectangle-div19 {
+  position: absolute;
+  top: 75px;
+  left: 0;
+  background-color: var(--color-gray-800);
+  border-top: 3px solid var(--color-gray-700);
+  border-right: 0 solid var(--color-gray-700);
+  border-bottom: 0 solid var(--color-gray-700);
+  border-left: 0 solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 400px;
+  height: 60px;
+}
+.rectangle-div19 {
+  top: 135px;
+}
+.kepikiran-sesuatu1 {
+  position: absolute;
+  top: 90px;
+  left: 15px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  color: var(--color-gray-1100);
+  display: inline-block;
+}
+.aku-bingung-nih {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.jawaban-p {
+  margin: 0;
+}
+.aku-bingung-nih-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.aku-bingung-nih-punya-pertanya {
+  position: absolute;
+  height: 50%;
+  width: 85.25%;
+  top: 25%;
+  left: 3.5%;
+  letter-spacing: -0.01em;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+}
+.frame-div7 {
+  top: 195px;
+  left: 0;
+  height: 60px;
+  overflow: hidden;
+  color: var(--color-teal);
+}
+.frame-div7,
+.frame-div8,
+.group-div14 {
+  position: absolute;
+  width: 400px;
+}
+.frame-div8 {
+  top: 255px;
+  left: 0;
+  height: 60px;
+  overflow: hidden;
+  color: var(--color-teal);
+}
+.group-div14 {
+  top: 118px;
+  left: 1139px;
+  height: 350px;
+  font-size: var(--body-p-size);
+}
+.rectangle-div20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 200px;
+  height: 100px;
+}
+.rectangle-div21,
+.rectangle-div22 {
+  position: absolute;
+  top: 49.28px;
+  left: 29px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gray-900);
+  width: 40px;
+  height: 7px;
+  transform: rotate(-45deg);
+  transform-origin: 0 0;
+}
+.rectangle-div22 {
+  top: 44.88px;
+  left: 34.33px;
+  transform: rotate(45deg);
+}
+.group-div15 {
+  position: absolute;
+  top: 95px;
+  left: 1597px;
+  width: 200px;
+  height: 100px;
+}
+.home-div4,
+.kelas-div3,
+.kontak-div3,
+.langganan-div3 {
+  position: absolute;
+  top: 21px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div4 {
+  left: 282px;
+  cursor: pointer;
+}
+.kelas-div3,
+.kontak-div3,
+.langganan-div3 {
+  left: 385px;
+}
+.kontak-div3,
+.langganan-div3 {
+  left: 481px;
+}
+.kontak-div3 {
+  left: 623px;
+}
+.rectangle-div23 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--actionable-item);
+  box-sizing: border-box;
+}
+.log-in-div7 {
+  position: absolute;
+  top: 27.5%;
+  left: 26.92%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.bell-r-icon3,
+.button-div8 {
+  position: absolute;
+  top: 10px;
+  left: 1501px;
+  width: 130px;
+  height: 40px;
+}
+.bell-r-icon3 {
+  top: 7px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.div4,
+.ellipse-icon14 {
+  position: absolute;
+  top: 3px;
+  left: 4px;
+  width: 40px;
+  height: 40px;
+}
+.div4 {
+  top: 1.5px;
+  left: 6px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+  width: 2.7px;
+  height: 11.7px;
+}
+.group-div16,
+.group-div17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15px;
+  height: 15px;
+}
+.group-div16 {
+  top: 7px;
+  left: 1438px;
+  width: 44px;
+  height: 43px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+}
+.sintar-logo-4-14 {
+  position: absolute;
+  top: 5px;
+  left: 68px;
+  width: 117.11px;
+  height: 50px;
+  object-fit: cover;
+}
+.navigation-c-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1680px;
+  height: 60px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--actionable-item);
+}
+.kelas1forum-diskusi-div {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1322px;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--body-h4-size);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}
+.notifikasi-baru-nih {
+  top: 33px;
+  left: 49px;
+  font-weight: 600;
+}
+.cek-div,
+.notifikasi-baru-nih,
+.slim-ftth-div {
+  position: absolute;
+  letter-spacing: -0.01em;
+  display: inline-block;
+}
+.slim-ftth-div {
+  top: 72px;
+  left: 136px;
+  font-size: var(--body-h4-size);
+  text-align: center;
+}
+.cek-div {
+  top: 6px;
+  left: 39px;
+}
+.frame-div1 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-div,
+.group-div {
+  position: absolute;
+  width: 400px;
+  height: 250px;
+}
+.frame-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  border: 3px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.group-div {
+  top: 57px;
+  left: 50px;
+}
+.mentor-ali-mengubungi {
+  position: absolute;
+  top: 72px;
+  left: 59px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.frame-div3 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+}
+.group-div1 {
+  position: absolute;
+  top: 347px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.pertanyaan-di-forum {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.telah-dijawab-p {
+  margin: 0;
+}
+.pertanyaan-di-forum-telah-dija {
+  position: absolute;
+  top: 72px;
+  left: 75px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.group-div2 {
+  position: absolute;
+  top: 637px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.home-pagenotif-div {
+  position: relative;
+  background-color: var(--color-gray-1200);
+  width: 500px;
+  height: 945px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}

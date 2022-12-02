@@ -1,0 +1,353 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.rectangle-div24,
+.rectangle-div25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  border-top: 0 solid var(--color-gray-1100);
+  border-right: 0 solid var(--color-gray-1100);
+  border-bottom: 1px solid var(--color-gray-1100);
+  border-left: 0 solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 500px;
+  height: 70px;
+}
+.rectangle-div25 {
+  left: 2px;
+  background-color: var(--color-gray-800);
+  border-right: 1px solid var(--color-gray-1100);
+  border-bottom: 0 solid var(--color-gray-1100);
+  width: 70px;
+}
+.group-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  width: 50px;
+  height: 50px;
+}
+.hubungi-mentor-div {
+  position: absolute;
+  top: 20px;
+  left: 82px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-div26,
+.rectangle-div27 {
+  position: absolute;
+  top: 530px;
+  left: 20px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 390px;
+  height: 50px;
+}
+.rectangle-div27 {
+  left: 430px;
+  background-color: var(--color-green-100);
+  width: 50px;
+}
+.send-r-icon2 {
+  position: absolute;
+  top: 543px;
+  left: 443px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangle-div28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-green-200);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 121px;
+  height: 50px;
+}
+.div5,
+.permisi-div {
+  position: absolute;
+  top: 11px;
+  left: 20px;
+  display: inline-block;
+}
+.div5 {
+  top: 35px;
+  left: 89px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-1100);
+}
+.group-div18,
+.rectangle-div29 {
+  position: absolute;
+  top: 15px;
+  left: 358px;
+  width: 121px;
+  height: 50px;
+}
+.rectangle-div29 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-green-200);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 316px;
+}
+.div6 {
+  position: absolute;
+  top: 35px;
+  left: 284px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-1100);
+  text-align: left;
+  display: inline-block;
+}
+.group-div19 {
+  position: absolute;
+  top: 625px;
+  left: 163px;
+  width: 316px;
+  height: 50px;
+  text-align: right;
+}
+.rectangle-div30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-green-200);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 387px;
+  height: 170px;
+}
+.saya-ingin-bertanya-terkait-mo {
+  position: absolute;
+  top: 70px;
+  left: 20px;
+  display: inline-block;
+  width: 347px;
+  height: 90px;
+}
+.div7 {
+  position: absolute;
+  top: 153px;
+  left: 354px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-1100);
+  display: inline-block;
+}
+.file-r-icon {
+  position: absolute;
+  top: 5px;
+  left: 17px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.cara-kerja-kabel-optik-sub-m,
+.ftth-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.cara-kerja-kabel-optik-sub-m {
+  top: 28px;
+  font-size: var(--font-size-xs);
+}
+.frame-div10,
+.group-div21 {
+  position: absolute;
+  top: 6px;
+  left: 67px;
+  width: 260px;
+  height: 47px;
+}
+.frame-div10 {
+  top: 0;
+  left: 0;
+  border-top: 0 solid var(--color-gray-1100);
+  border-right: 0 solid var(--color-gray-1100);
+  border-bottom: 1px solid var(--color-gray-1100);
+  border-left: 0 solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 387px;
+  height: 60px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.group-div20,
+.rectangle-div31 {
+  position: absolute;
+  top: 200px;
+  left: 92px;
+  width: 387px;
+  height: 170px;
+}
+.rectangle-div31 {
+  top: 19px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  height: 80px;
+}
+.iya-kak-naufal {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.kami-bantu-p {
+  margin: 0;
+}
+.iya-kak-naufal-ada-yang-bisa {
+  position: absolute;
+  top: 31px;
+  left: 20px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 347px;
+}
+.div8,
+.sintar-auto-reply {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+}
+.div8 {
+  top: 83px;
+  left: 355px;
+  font-size: var(--font-size-4xs);
+}
+.group-div22 {
+  position: absolute;
+  top: 72px;
+  left: 21px;
+  width: 387px;
+  height: 99px;
+  color: var(--color-gray-1100);
+}
+.rectangle-div32 {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 387px;
+  height: 200px;
+}
+.terima-kasih-sudah-menghubungi {
+  position: absolute;
+  top: 89px;
+  left: 20px;
+  display: inline-block;
+  width: 347px;
+}
+.div9,
+.mentor-ali-div {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-1100);
+  display: inline-block;
+}
+.div9 {
+  top: 196px;
+  left: 355px;
+  font-size: var(--font-size-4xs);
+}
+.file-r-icon1 {
+  position: absolute;
+  top: 5px;
+  left: 9px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.frame-div11,
+.group-div24 {
+  position: absolute;
+  top: 6px;
+  left: 59px;
+  width: 320px;
+  height: 47px;
+}
+.frame-div11 {
+  top: 19px;
+  left: 0;
+  border-top: 0 solid var(--color-gray-1100);
+  border-right: 0 solid var(--color-gray-1100);
+  border-bottom: 1px solid var(--color-gray-1100);
+  border-left: 0 solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 387px;
+  height: 60px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.group-div23,
+.rectangle-div33 {
+  position: absolute;
+  top: 377px;
+  left: 21px;
+  width: 387px;
+  height: 219px;
+}
+.rectangle-div33 {
+  top: 699px;
+  left: 446px;
+  background-color: var(--color-gray-800);
+  width: 54px;
+  height: 84px;
+}
+.frame-div9 {
+  position: absolute;
+  top: 70px;
+  left: 2px;
+  background-color: transparent;
+  width: 500px;
+  height: 446px;
+  overflow-y: auto;
+  font-family: var(--font-roboto);
+}
+.kelas1hubungi-mentor-div {
+  position: relative;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 600px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--body-h4-size);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}

@@ -1,0 +1,323 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.group-icon,
+.selamat-b {
+  position: absolute;
+  top: 197px;
+  left: 740px;
+  width: 200px;
+  height: 200px;
+}
+.selamat-b {
+  height: 7.62%;
+  width: 58.87%;
+  top: 42.86%;
+  left: 20.6%;
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  display: inline-block;
+}
+.anda-mendapat-nilai {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.slim-selanjutnya {
+  margin: 0;
+}
+.anda-mendapat-nilai-1010-teri {
+  position: absolute;
+  height: 7.62%;
+  width: 47.68%;
+  top: 51.32%;
+  left: 26.19%;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.01em;
+  line-height: 40px;
+  display: inline-block;
+}
+.rectangle-div4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--actionable-item);
+  border: 1px solid var(--actionable-item);
+  box-sizing: border-box;
+}
+.log-in-div1 {
+  position: absolute;
+  top: 29.17%;
+  left: 28.72%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.button-div2 {
+  position: absolute;
+  top: 688px;
+  left: 743px;
+  width: 195px;
+  height: 60px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.home-div,
+.kelas-div,
+.kontak-div,
+.langganan-div {
+  position: absolute;
+  top: 21px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div {
+  left: 282px;
+  cursor: pointer;
+}
+.kelas-div,
+.kontak-div,
+.langganan-div {
+  left: 385px;
+}
+.kontak-div,
+.langganan-div {
+  left: 481px;
+}
+.kontak-div {
+  left: 623px;
+}
+.rectangle-div5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--actionable-item);
+  box-sizing: border-box;
+}
+.log-in-div2 {
+  position: absolute;
+  top: 27.5%;
+  left: 26.92%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.bell-r-icon,
+.button-div3 {
+  position: absolute;
+  top: 10px;
+  left: 1501px;
+  width: 130px;
+  height: 40px;
+}
+.bell-r-icon {
+  top: 7px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.div1,
+.ellipse-icon {
+  position: absolute;
+  top: 3px;
+  left: 4px;
+  width: 40px;
+  height: 40px;
+}
+.div1 {
+  top: 1.5px;
+  left: 6px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+  width: 2.7px;
+  height: 11.7px;
+}
+.group-div3,
+.group-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15px;
+  height: 15px;
+}
+.group-div3 {
+  top: 7px;
+  left: 1438px;
+  width: 44px;
+  height: 43px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+}
+.sintar-logo-4-11 {
+  position: absolute;
+  top: 5px;
+  left: 68px;
+  width: 117.11px;
+  height: 50px;
+  object-fit: cover;
+}
+.navigation-c-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1680px;
+  height: 60px;
+  overflow: hidden;
+  font-size: var(--font-size-2xs);
+  color: var(--actionable-item);
+}
+.kelas-1slimpenilaian-div {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 945px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--hero-h1-size);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}
+.notifikasi-baru-nih {
+  top: 33px;
+  left: 49px;
+  font-weight: 600;
+}
+.cek-div,
+.notifikasi-baru-nih,
+.slim-ftth-div {
+  position: absolute;
+  letter-spacing: -0.01em;
+  display: inline-block;
+}
+.slim-ftth-div {
+  top: 72px;
+  left: 136px;
+  font-size: var(--body-h4-size);
+  text-align: center;
+}
+.cek-div {
+  top: 6px;
+  left: 39px;
+}
+.frame-div1 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-div,
+.group-div {
+  position: absolute;
+  width: 400px;
+  height: 250px;
+}
+.frame-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  border: 3px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.group-div {
+  top: 57px;
+  left: 50px;
+}
+.mentor-ali-mengubungi {
+  position: absolute;
+  top: 72px;
+  left: 59px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.frame-div3 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+}
+.group-div1 {
+  position: absolute;
+  top: 347px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.pertanyaan-di-forum {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.telah-dijawab-p {
+  margin: 0;
+}
+.pertanyaan-di-forum-telah-dija {
+  position: absolute;
+  top: 72px;
+  left: 75px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.group-div2 {
+  position: absolute;
+  top: 637px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.home-pagenotif-div {
+  position: relative;
+  background-color: var(--color-gray-1200);
+  width: 500px;
+  height: 945px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}

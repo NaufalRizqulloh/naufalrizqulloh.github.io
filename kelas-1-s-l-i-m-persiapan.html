@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <title></title>
+
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./kelas-1-s-l-i-m-persiapan.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@1,700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="kelas-1slimpersiapan-div">
+      <b class="siap-untuk-mengerjakan-slim">Siap untuk Mengerjakan SLIM?</b>
+      <div class="slim-bahasa-indonesia-hari">
+        SLIM Bahasa Indonesia - Hari, Tanggal
+      </div>
+      <div class="button-div6" id="buttonContainer">
+        <div class="rectangle-div8"></div>
+        <div class="log-in-div5">Kerjakan</div>
+      </div>
+      <div class="home-div2" id="homeText">Kerjakan Nanti</div>
+      <div class="navigation-c-div3">
+        <div class="home-div3" id="homeText1">Home</div>
+        <div class="kelas-div2">Kelas</div>
+        <div class="langganan-div2">Langganan</div>
+        <div class="kontak-div2">Kontak</div>
+        <div class="button-div7">
+          <div class="rectangle-div9"></div>
+          <div class="log-in-div6">Log Out</div>
+        </div>
+        <div class="group-div9" id="groupContainer1">
+          <img class="bell-r-icon2" alt="" src="public/bellr.svg" /><img
+            class="ellipse-icon12"
+            alt=""
+            src="public/ellipse-8.svg"
+          />
+          <div class="group-div10">
+            <img class="group-div10" alt="" src="public/ellipse-1.svg" />
+            <div class="div3">!</div>
+          </div>
+        </div>
+        <img
+          class="sintar-logo-4-13"
+          alt=""
+          src="public/sintar-logo-4-1@2x.png"
+        />
+      </div>
+    </div>
+
+    <div
+      id="homePageNotifContainer"
+      class="popup-overlay"
+      style="display: none"
+    >
+      <div class="home-pagenotif-div">
+        <div class="group-div">
+          <div class="frame-div">
+            <div class="notifikasi-baru-nih">Notifikasi Baru Nih</div>
+            <div class="slim-ftth-div">SLIM FTTH</div>
+            <div class="frame-div1" id="popupframeContainer">
+              <div class="cek-div">Cek!</div>
+            </div>
+          </div>
+        </div>
+        <div class="group-div1">
+          <div class="frame-div">
+            <div class="notifikasi-baru-nih">Notifikasi Baru Nih</div>
+            <div class="mentor-ali-mengubungi">Mentor Ali Mengubungi</div>
+            <div class="frame-div3"><div class="cek-div">Cek!</div></div>
+          </div>
+        </div>
+        <div class="group-div2">
+          <div class="frame-div">
+            <div class="notifikasi-baru-nih">Notifikasi Baru Nih</div>
+            <div class="pertanyaan-di-forum-telah-dija">
+              <p class="pertanyaan-di-forum">Pertanyaan di Forum</p>
+              <p class="telah-dijawab-p">telah dijawab</p>
+            </div>
+            <div class="frame-div1" id="popupframeContainer4">
+              <div class="cek-div">Cek!</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var popupframeContainer = document.getElementById("popupframeContainer");
+      if (popupframeContainer) {
+        popupframeContainer.addEventListener("click", function (e) {
+          window.location.href = "./kelas-1-s-l-i-m-persiapan.html";
+        });
+      }
+      
+      var popupframeContainer4 = document.getElementById("popupframeContainer4");
+      if (popupframeContainer4) {
+        popupframeContainer4.addEventListener("click", function (e) {
+          window.location.href = "./kelas1-forum-diskusi.html";
+        });
+      }
+      
+      var buttonContainer = document.getElementById("buttonContainer");
+      if (buttonContainer) {
+        buttonContainer.addEventListener("click", function (e) {
+          window.location.href = "./kelas-1-s-l-i-m-pengerjaan.html";
+        });
+      }
+      
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./kelas.html";
+        });
+      }
+      
+      var homeText1 = document.getElementById("homeText1");
+      if (homeText1) {
+        homeText1.addEventListener("click", function (e) {
+          window.location.href = "./home-page.html";
+        });
+      }
+      
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function () {
+          var popup = document.getElementById("homePageNotifContainer");
+          if (!popup) return;
+          var popupStyle = popup.style;
+          if (popupStyle) {
+            popupStyle.display = "flex";
+            popupStyle.zIndex = 100;
+            popupStyle.backgroundColor = "rgba(113, 113, 113, 0.3)";
+            popupStyle.alignItems = "center";
+            popupStyle.justifyContent = "center";
+          }
+          popup.setAttribute("closable", "");
+      
+          var onClick =
+            popup.onClick ||
+            function (e) {
+              if (e.target === popup && popup.hasAttribute("closable")) {
+                popupStyle.display = "none";
+              }
+            };
+          popup.addEventListener("click", onClick);
+        });
+      }
+      </script>
+  </body>
+</html>

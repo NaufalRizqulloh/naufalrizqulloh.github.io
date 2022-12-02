@@ -1,0 +1,566 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.ftth-b,
+.subbab-1-dasar-fiber-optik {
+  position: absolute;
+  left: 80px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+}
+.ftth-b {
+  top: 95px;
+  font-size: var(--sub-page-h1-size);
+}
+.subbab-1-dasar-fiber-optik {
+  top: 154px;
+  font-weight: 500;
+}
+.fiber-optik-merupakan {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.setelah-melihat-video {
+  margin: 0;
+}
+.fiber-optik-merupakan-salah-sa {
+  position: absolute;
+  top: 259px;
+  left: 80px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1520px;
+}
+.frame-icon {
+  position: absolute;
+  top: 647px;
+  left: 80px;
+  width: 1520px;
+  height: 521px;
+  overflow: hidden;
+}
+.rectangle-div39 {
+  position: absolute;
+  top: 1434px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  box-shadow: 0-10px 4px rgba(0, 0, 0, 0.25);
+  width: 1680px;
+  height: 120px;
+}
+.judul-materi-div,
+.materi-sebelumnya-div,
+.materi-selanjutnya {
+  position: absolute;
+  top: 1474px;
+  left: 80px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.judul-materi-div,
+.materi-selanjutnya {
+  left: 1278px;
+}
+.judul-materi-div {
+  left: 741px;
+  text-align: center;
+}
+.rectangle-div40 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 200px;
+  height: 100px;
+}
+.rectangle-div41,
+.rectangle-div42,
+.rectangle-div43 {
+  position: absolute;
+  top: 33px;
+  left: 23px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gray-900);
+  width: 40px;
+  height: 7px;
+}
+.rectangle-div42,
+.rectangle-div43 {
+  top: 46px;
+}
+.rectangle-div43 {
+  top: 59px;
+}
+.ellipse-icon17,
+.group-div31 {
+  position: absolute;
+  top: 95px;
+  left: 1597px;
+  width: 200px;
+  height: 100px;
+}
+.ellipse-icon17 {
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+}
+.div11 {
+  position: absolute;
+  top: 5px;
+  left: 20px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div32 {
+  position: absolute;
+  top: 70px;
+  left: 1590px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+.home-div5,
+.kelas-div4,
+.kontak-div4,
+.langganan-div4 {
+  position: absolute;
+  top: 21px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div5 {
+  left: 282px;
+  cursor: pointer;
+}
+.kelas-div4,
+.kontak-div4,
+.langganan-div4 {
+  left: 385px;
+}
+.kontak-div4,
+.langganan-div4 {
+  left: 481px;
+}
+.kontak-div4 {
+  left: 623px;
+}
+.rectangle-div44 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--actionable-item);
+  box-sizing: border-box;
+}
+.log-in-div8 {
+  position: absolute;
+  top: 27.5%;
+  left: 26.92%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.bell-r-icon4,
+.button-div9 {
+  position: absolute;
+  top: 10px;
+  left: 1501px;
+  width: 130px;
+  height: 40px;
+}
+.bell-r-icon4 {
+  top: 7px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.div12,
+.ellipse-icon18 {
+  position: absolute;
+  top: 3px;
+  left: 4px;
+  width: 40px;
+  height: 40px;
+}
+.div12 {
+  top: 1.5px;
+  left: 6px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+  width: 2.7px;
+  height: 11.7px;
+}
+.group-div33,
+.group-div34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15px;
+  height: 15px;
+}
+.group-div33 {
+  top: 7px;
+  left: 1438px;
+  width: 44px;
+  height: 43px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+}
+.sintar-logo-4-15 {
+  position: absolute;
+  top: 5px;
+  left: 68px;
+  width: 117.11px;
+  height: 50px;
+  object-fit: cover;
+}
+.navigation-c-div5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1680px;
+  height: 60px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--actionable-item);
+}
+.kelas-1-div {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1554px;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}
+.notifikasi-baru-nih {
+  top: 33px;
+  left: 49px;
+  font-weight: 600;
+}
+.cek-div,
+.notifikasi-baru-nih,
+.slim-ftth-div {
+  position: absolute;
+  letter-spacing: -0.01em;
+  display: inline-block;
+}
+.slim-ftth-div {
+  top: 72px;
+  left: 136px;
+  font-size: var(--body-h4-size);
+  text-align: center;
+}
+.cek-div {
+  top: 6px;
+  left: 39px;
+}
+.frame-div1 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-div,
+.group-div {
+  position: absolute;
+  width: 400px;
+  height: 250px;
+}
+.frame-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  border: 3px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.group-div {
+  top: 57px;
+  left: 50px;
+}
+.mentor-ali-mengubungi {
+  position: absolute;
+  top: 72px;
+  left: 59px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.frame-div3 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+}
+.group-div1 {
+  position: absolute;
+  top: 347px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.pertanyaan-di-forum {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.telah-dijawab-p {
+  margin: 0;
+}
+.pertanyaan-di-forum-telah-dija {
+  position: absolute;
+  top: 72px;
+  left: 75px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.group-div2 {
+  position: absolute;
+  top: 637px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.home-pagenotif-div {
+  position: relative;
+  background-color: var(--color-gray-1200);
+  width: 500px;
+  height: 945px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.rectangle-div34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 400px;
+  height: 945px;
+}
+.judul-materi-b,
+.subbab-no-judul-subbab {
+  position: absolute;
+  left: 22px;
+  letter-spacing: -0.01em;
+  color: var(--color-black);
+  display: inline-block;
+}
+.judul-materi-b {
+  top: 33px;
+  font-size: var(--font-size-3xl);
+}
+.subbab-no-judul-subbab {
+  top: 72px;
+  font-weight: 500;
+  text-align: left;
+}
+.rectangle-div35 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  border-top: 1px solid var(--color-gray-900);
+  border-right: 0 solid var(--color-gray-900);
+  border-bottom: 0 solid var(--color-gray-900);
+  border-left: 0 solid var(--color-gray-900);
+  box-sizing: border-box;
+  width: 400px;
+  height: 60px;
+}
+.kembali-div {
+  position: absolute;
+  top: 15px;
+  left: 150px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div26 {
+  position: absolute;
+  top: 885px;
+  left: 0;
+  width: 400px;
+  height: 60px;
+  text-align: left;
+}
+.hubungi-mentor-div1 {
+  position: absolute;
+  top: 15px;
+  left: 100px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div27 {
+  position: absolute;
+  top: 825px;
+  left: 0;
+  width: 400px;
+  height: 60px;
+}
+.forum-diskusi-div {
+  position: absolute;
+  top: 15px;
+  left: 113px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div28 {
+  top: 0;
+  left: 0;
+  height: 60px;
+}
+.frame-div12,
+.group-div25,
+.group-div28 {
+  position: absolute;
+  width: 400px;
+}
+.frame-div12 {
+  top: 765px;
+  left: 0;
+  border-top: 1px solid var(--color-black);
+  border-right: 0 solid var(--color-black);
+  border-bottom: 0 solid var(--color-black);
+  border-left: 0 solid var(--color-black);
+  box-sizing: border-box;
+  height: 60px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.group-div25 {
+  top: 0;
+  left: 1280px;
+  box-shadow: -10px 0 4px rgba(0, 0, 0, 0.25);
+  height: 945px;
+}
+.slim-div1 {
+  position: absolute;
+  top: 15px;
+  left: 170px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.ellipse-icon16 {
+  position: absolute;
+  top: 2.67px;
+  left: -2.28px;
+  width: 39.42px;
+  height: 39.42px;
+}
+.div10,
+.group-div30 {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.div10 {
+  top: 6.48px;
+  left: 15.67px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 7.1px;
+  height: 30.75px;
+  transform: rotate(8.13deg);
+}
+.group-div30 {
+  top: 7.91px;
+  left: 349.87px;
+  width: 40.12px;
+  height: 40.12px;
+  transform: rotate(7.1deg);
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+}
+.frame-div13 {
+  position: absolute;
+  top: 705px;
+  left: 1279px;
+  border-top: 1px solid var(--color-black);
+  border-right: 0 solid var(--color-black);
+  border-bottom: 0 solid var(--color-black);
+  border-left: 0 solid var(--color-black);
+  box-sizing: border-box;
+  width: 400px;
+  height: 60px;
+  overflow: auto;
+  cursor: pointer;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 945px;
+}
+.kelas-1tab-div {
+  position: relative;
+  background-color: transparent;
+  box-shadow: -10px 0 4px rgba(0, 0, 0, 0.25);
+  width: 1680px;
+  height: 945px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--body-h4-size);
+  color: var(--color-gray-900);
+  font-family: var(--body-p);
+}

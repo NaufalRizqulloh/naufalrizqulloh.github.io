@@ -1,0 +1,58 @@
+:root {
+  /* fonts */
+  --body-p: Montserrat;
+  --font-inherit: inherit;
+  --font-roboto: Roboto;
+  --font-arimo: Arimo;
+
+  /* font sizes */
+  --font-size-4xs: 10px;
+  --font-size-3xs: 14px;
+  --font-size-2xs: 15px;
+  --font-size-xs: 16px;
+  --font-size-sm: 17px;
+  --body-p-size: 18px;
+  --font-size-lg: 20px;
+  --body-h4-size: 24px;
+  --font-size-2xl: 28px;
+  --font-size-3xl: 32px;
+  --body-p-large-size: 36px;
+  --sub-page-h1-size: 48px;
+  --hero-h1-size: 56px;
+
+  /* Colors */
+  --color-gray-100: #faf7f0;
+  --color-gray-200: #cdfcf6;
+  --color-gray-300: #b8e8fc;
+  --color-gray-400: #bccdf8;
+  --color-gray-500: #bbb;
+  --actionable-item: #18a0fb;
+  --color-gray-700: rgba(0, 0, 0, 0.2);
+  --color-gray-800: rgba(217, 217, 217, 0);
+  --color-gray-900: rgba(0, 0, 0, 0.8);
+  --color-gray-1000: rgba(24, 160, 251, 0.6);
+  --color-gray-1100: rgba(0, 0, 0, 0.5);
+  --color-gray-1200: rgba(255, 255, 255, 0);
+  --color-black: #000;
+  --color-white: #fff;
+  --color-teal: #35acfc;
+  --color-green-100: #53ee50;
+  --color-green-200: rgba(83, 238, 80, 0.5);
+  --color-beige: #cff5e7;
+
+  /* Paddings */
+  --padding-sm: 20px;
+  --padding-md: 21px;
+  --padding-lg: 37px;
+
+  /* border radiuses */
+  --br-3xs: 5px;
+  --br-2xs: 6px;
+  --br-xs: 10px;
+  --br-sm: 15px;
+  --br-md: 18px;
+  --br-lg: 20px;
+  --br-xl: 80px;
+  --br-2xl: 85px;
+  --br-3xl: 131px;
+}

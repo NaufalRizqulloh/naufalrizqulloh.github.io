@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <title></title>
+
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./home-page-notif.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@1,700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="home-pagenotif-div">
+      <div class="group-div">
+        <div class="frame-div">
+          <div class="notifikasi-baru-nih">Notifikasi Baru Nih</div>
+          <div class="slim-ftth-div">SLIM FTTH</div>
+          <div class="frame-div1" id="popupframeContainer">
+            <div class="cek-div">Cek!</div>
+          </div>
+        </div>
+      </div>
+      <div class="group-div1">
+        <div class="frame-div">
+          <div class="notifikasi-baru-nih">Notifikasi Baru Nih</div>
+          <div class="mentor-ali-mengubungi">Mentor Ali Mengubungi</div>
+          <div class="frame-div3"><div class="cek-div">Cek!</div></div>
+        </div>
+      </div>
+      <div class="group-div2">
+        <div class="frame-div">
+          <div class="notifikasi-baru-nih">Notifikasi Baru Nih</div>
+          <div class="pertanyaan-di-forum-telah-dija">
+            <p class="pertanyaan-di-forum">Pertanyaan di Forum</p>
+            <p class="telah-dijawab-p">telah dijawab</p>
+          </div>
+          <div class="frame-div1" id="popupframeContainer4">
+            <div class="cek-div">Cek!</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var popupframeContainer = document.getElementById("popupframeContainer");
+      if (popupframeContainer) {
+        popupframeContainer.addEventListener("click", function (e) {
+          window.location.href = "./kelas-1-s-l-i-m-persiapan.html";
+        });
+      }
+      
+      var popupframeContainer4 = document.getElementById("popupframeContainer4");
+      if (popupframeContainer4) {
+        popupframeContainer4.addEventListener("click", function (e) {
+          window.location.href = "./kelas1-forum-diskusi.html";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.konfirmasi-pembelian-div1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.01em;
+  line-height: 72px;
+  display: inline-block;
+}
+.the-largest-community-of-photo {
+  position: absolute;
+  top: 78px;
+  left: 144px;
+  width: 1392px;
+  height: 72px;
+  font-size: var(--sub-page-h1-size);
+  color: var(--color-black);
+}
+.rectangle-icon1 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  width: 494px;
+  height: 40px;
+}
+.pembayaran-kredit-div {
+  top: 44px;
+  left: 14px;
+  display: inline-block;
+  width: 223px;
+}
+.metode-pembayaran-div,
+.pembayaran-kredit-div,
+.v-div {
+  position: absolute;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  height: 24px;
+}
+.v-div {
+  top: 44px;
+  left: 361px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 223px;
+}
+.metode-pembayaran-div {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 188px;
+}
+.group-div48,
+.group-div49,
+.rectangle-div71 {
+  position: absolute;
+  top: 240px;
+  left: 144px;
+  width: 584px;
+  height: 76px;
+}
+.group-div49,
+.rectangle-div71 {
+  top: 355px;
+  width: 494px;
+}
+.rectangle-div71 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--actionable-item);
+}
+.register-div2 {
+  position: absolute;
+  top: 27.5%;
+  left: 32.31%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.button-div24 {
+  position: absolute;
+  top: 778px;
+  left: 144px;
+  width: 130px;
+  height: 40px;
+  text-align: center;
+  color: var(--color-white);
+}
+.konfirmasi-pembelian-div {
+  position: relative;
+  background: linear-gradient(107.56deg, #b8e8fc, #faf7f0);
+  width: 100%;
+  height: 944px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-900);
+  font-family: var(--body-p);
+}

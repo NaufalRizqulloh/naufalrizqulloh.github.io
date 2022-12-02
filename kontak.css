@@ -1,0 +1,340 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.rectangle-div45,
+.rectangle-div46 {
+  position: absolute;
+  top: -160px;
+  left: 1374.43px;
+  background-color: var(--color-gray-200);
+  box-shadow: -20px 4px 4px rgba(152, 168, 248, 0.25);
+  width: 1033.36px;
+  height: 1718.49px;
+  transform: rotate(29.66deg);
+  transform-origin: 0 0;
+}
+.rectangle-div46 {
+  top: -474.5px;
+  left: 775.07px;
+  background-color: var(--color-gray-400);
+  width: 1497.33px;
+  height: 551.8px;
+}
+.hubungi-kami1 {
+  position: absolute;
+  height: 7.09%;
+  width: 45.36%;
+  top: 11.85%;
+  left: 27.32%;
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-1-icon1,
+.image-2-icon1,
+.image-3-icon1 {
+  position: absolute;
+  top: 29px;
+  left: 24px;
+  width: 100px;
+  height: 101.04px;
+  object-fit: cover;
+}
+.image-2-icon1,
+.image-3-icon1 {
+  top: 150px;
+  height: 100px;
+}
+.image-3-icon1 {
+  top: 270px;
+}
+.div13,
+.sintarpintar-div1,
+.wwwsintarcoid-div1 {
+  position: absolute;
+  height: 16.75%;
+  width: 62.33%;
+  top: 11.5%;
+  left: 22.33%;
+  letter-spacing: -0.01em;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+}
+.sintarpintar-div1,
+.wwwsintarcoid-div1 {
+  top: 41.5%;
+}
+.wwwsintarcoid-div1 {
+  width: 67.5%;
+  top: 71.5%;
+}
+.frame-div14 {
+  position: absolute;
+  top: 273px;
+  left: 540px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  border: 10px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 600px;
+  height: 400px;
+  overflow: hidden;
+  text-align: left;
+}
+.home-div6,
+.kelas-div5,
+.kontak-div6,
+.langganan-div5 {
+  position: absolute;
+  top: 21px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div6 {
+  left: 282px;
+  cursor: pointer;
+}
+.kelas-div5,
+.kontak-div6,
+.langganan-div5 {
+  left: 385px;
+}
+.kontak-div6,
+.langganan-div5 {
+  left: 481px;
+}
+.kontak-div6 {
+  left: 623px;
+}
+.rectangle-div47 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--actionable-item);
+  box-sizing: border-box;
+}
+.log-in-div9 {
+  position: absolute;
+  top: 27.5%;
+  left: 26.92%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.bell-r-icon5,
+.button-div10 {
+  position: absolute;
+  top: 10px;
+  left: 1501px;
+  width: 130px;
+  height: 40px;
+}
+.bell-r-icon5 {
+  top: 7px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.div14,
+.ellipse-icon20 {
+  position: absolute;
+  top: 3px;
+  left: 4px;
+  width: 40px;
+  height: 40px;
+}
+.div14 {
+  top: 1.5px;
+  left: 6px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+  width: 2.7px;
+  height: 11.7px;
+}
+.group-div35,
+.group-div36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15px;
+  height: 15px;
+}
+.group-div35 {
+  top: 7px;
+  left: 1438px;
+  width: 44px;
+  height: 43px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+}
+.sintar-logo-4-16 {
+  position: absolute;
+  top: 5px;
+  left: 68px;
+  width: 117.11px;
+  height: 50px;
+  object-fit: cover;
+}
+.navigation-c-div6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1680px;
+  height: 60px;
+  overflow: hidden;
+  font-size: var(--font-size-2xs);
+  color: var(--actionable-item);
+}
+.kontak-div5 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 945px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--sub-page-h1-size);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}
+.notifikasi-baru-nih {
+  top: 33px;
+  left: 49px;
+  font-weight: 600;
+}
+.cek-div,
+.notifikasi-baru-nih,
+.slim-ftth-div {
+  position: absolute;
+  letter-spacing: -0.01em;
+  display: inline-block;
+}
+.slim-ftth-div {
+  top: 72px;
+  left: 136px;
+  font-size: var(--body-h4-size);
+  text-align: center;
+}
+.cek-div {
+  top: 6px;
+  left: 39px;
+}
+.frame-div1 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-div,
+.group-div {
+  position: absolute;
+  width: 400px;
+  height: 250px;
+}
+.frame-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  border: 3px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.group-div {
+  top: 57px;
+  left: 50px;
+}
+.mentor-ali-mengubungi {
+  position: absolute;
+  top: 72px;
+  left: 59px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.frame-div3 {
+  position: absolute;
+  top: 168px;
+  left: 125px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-1000);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+  overflow: hidden;
+}
+.group-div1 {
+  position: absolute;
+  top: 347px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.pertanyaan-di-forum {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.telah-dijawab-p {
+  margin: 0;
+}
+.pertanyaan-di-forum-telah-dija {
+  position: absolute;
+  top: 72px;
+  left: 75px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+}
+.group-div2 {
+  position: absolute;
+  top: 637px;
+  left: 50px;
+  width: 400px;
+  height: 250px;
+}
+.home-pagenotif-div {
+  position: relative;
+  background-color: var(--color-gray-1200);
+  width: 500px;
+  height: 945px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}

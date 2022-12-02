@@ -1,0 +1,267 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.daftarkan-diri-anda-segera,
+.siap-untuk-belajar-cepat {
+  position: absolute;
+  width: 82.86%;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+}
+.siap-untuk-belajar-cepat {
+  height: 7.63%;
+  top: 4.24%;
+  left: 4.35%;
+  line-height: 72px;
+  font-weight: 800;
+}
+.daftarkan-diri-anda-segera {
+  height: 5.93%;
+  top: 11.86%;
+  left: 4.4%;
+  font-size: var(--body-p-large-size);
+  line-height: 50px;
+  color: var(--color-gray-900);
+}
+.rectangle-div78 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--actionable-item);
+}
+.register-div6 {
+  position: absolute;
+  top: 27.5%;
+  left: 32.31%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.button-div28 {
+  position: absolute;
+  top: 617px;
+  left: 37px;
+  width: 130px;
+  height: 40px;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+}
+.rectangle-div79 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 494px;
+  height: 50px;
+}
+.nama-lengkap-div {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  display: inline-block;
+  width: 223px;
+  height: 24px;
+}
+.group-div55 {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 494px;
+  height: 50px;
+}
+.group-div54,
+.group-div56,
+.rectangle-div82 {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 494px;
+  height: 95px;
+}
+.group-div56,
+.rectangle-div82 {
+  top: 95px;
+}
+.rectangle-div82 {
+  top: 45px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  height: 50px;
+}
+.sekolah-div,
+.smk-div {
+  position: absolute;
+  letter-spacing: -0.01em;
+  display: inline-block;
+}
+.smk-div {
+  top: 58px;
+  left: 14px;
+  line-height: 24px;
+  width: 223px;
+  height: 24px;
+}
+.sekolah-div {
+  top: 0;
+  left: 0;
+  font-size: var(--body-h4-size);
+  line-height: 50px;
+  color: var(--color-black);
+}
+.group-div61,
+.group-div62,
+.group-div63 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 494px;
+  height: 95px;
+}
+.group-div62,
+.group-div63 {
+  top: 95px;
+}
+.group-div63 {
+  top: 190px;
+}
+.group-div60,
+.rectangle-div85 {
+  position: absolute;
+  top: 285px;
+  left: 37px;
+  width: 494px;
+  height: 285px;
+}
+.rectangle-div85 {
+  top: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 150px;
+  height: 50px;
+}
+.tanggal-div {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  display: inline-block;
+  width: 223px;
+  height: 24px;
+}
+.group-div65,
+.group-div66,
+.rectangle-div87 {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 223px;
+  height: 50px;
+}
+.group-div66,
+.rectangle-div87 {
+  left: 172px;
+}
+.rectangle-div87 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 150px;
+}
+.tahun-div {
+  position: absolute;
+  top: 13px;
+  left: 25px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  display: inline-block;
+  width: 100px;
+  height: 24px;
+}
+.group-div67 {
+  position: absolute;
+  top: 45px;
+  left: 381px;
+  width: 150px;
+  height: 50px;
+}
+.tanggal-lahir-div {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  line-height: 50px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.group-div64 {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  width: 531px;
+  height: 95px;
+  text-align: center;
+}
+.sudah-memiliki-akun {
+  position: absolute;
+  top: 620px;
+  left: 308px;
+  font-size: var(--font-size-2xs);
+  text-decoration: underline;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  color: var(--actionable-item);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 223px;
+  height: 24px;
+}
+.group-div53 {
+  position: absolute;
+  top: 190px;
+  left: 36px;
+  width: 531px;
+  height: 657px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-1100);
+}
+.daftar-div {
+  position: relative;
+  background: linear-gradient(107.52deg, #b8e8fc, #faf7f0);
+  width: 100%;
+  height: 944px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--sub-page-h1-size);
+  color: var(--color-black);
+  font-family: var(--body-p);
+}
